@@ -1,5 +1,13 @@
-# WebCrawling
+# Web Crawling
 
-Web Crawler:
-    - toywiz website
-    - amazon website
+## Web Crawlers Target Websites:
+
+- ToyWiz 
+- Amazon
+- Musinsa  
+- Nokia  
+- OnePlus  
+- Oppo  
+- Toyiz  
+- Vivo  
+- Wikipedia  
